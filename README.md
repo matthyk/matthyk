@@ -13,3 +13,10 @@ I have somehow already worked in many different areas, including:
 
 
 But at the moment I particularly enjoy developing tooling for the standard-compliant implementation of web APIs. Because I am convinced that APIs can benefit enormously if they comply with HTTP specifications. I think model-driven approaches can also contribute to this.
+
+Have a look at my current projects and projects I contribute to:
+
+* [fastify-override](https://github.com/matthyk/fastify-override)
+* [fastify](https://github.com/fastify/fastify)
+* [find-my-way](https://github.com/delvedor/find-my-way)
+* [fastify-overview](https://github.com/Eomm/fastify-overview)
