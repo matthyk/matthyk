@@ -13,7 +13,7 @@ Some topics I am currently interested in:
 * OpenAPI
 * JSONSchema
 
-If you are interested in some projects I have already committed to see the list below. 
+If you are interested in some projects I have already committed to: 
 
 * [fastify-override](https://github.com/matthyk/fastify-override)
 * [fastify](https://github.com/fastify/fastify)
