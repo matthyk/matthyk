@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Matthias and I am currently working as Software Engineer at [qupaya](https://qupaya.com/) and purchasing my Master's degree in Computer Science at the University of Würzburg. At the moment I particularly enjoy developing tooling for the standard-compliant implementation of web APIs. Because I am convinced that APIs can benefit enormously if they comply with HTTP specifications. I think model-driven approaches can also contribute to this.
+I am Matthias and I am currently working as Software Engineer at [qupaya](https://qupaya.com/). At the moment I particularly enjoy developing tooling for the standard-compliant implementation of web APIs. Because I am convinced that APIs can benefit enormously if they comply with HTTP specifications. I think model-driven approaches can also contribute to this.
 Some topics I am currently interested in:
 
 * Node.js
