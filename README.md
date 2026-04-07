@@ -1,20 +1,10 @@
 ### Hello there 👋
 
-I am Matthias and I am currently working as Software Engineer at [qupaya](https://qupaya.com/). At the moment I particularly enjoy developing tooling for the standard-compliant implementation of web APIs. Because I am convinced that APIs can benefit enormously if they comply with HTTP specifications. I think model-driven approaches can also contribute to this.
-Some topics I am currently interested in:
-
-* Node.js
-* REST
-* HTTP
-* Web Standards
-* TypeScript
-* Fastify
-* Model-driven software development approaches
-* OpenAPI
-* JSONSchema
+I am a Software Engineer with a strong focus on Node.js, TypeScript, developer tooling and REST APIs, with professional experience since 2018. My work centers around building robust and reliable APIs and systems as well as CLI tools that enable efficient and reliable software development. Over the past years, I have developed a particular specialization in HTTP and REST API design and development.
 
 If you are interested in some projects I have already committed to: 
 
+* [Thymian](https://github.com/thymianofficial/thymian)
 * [fastify-override](https://github.com/matthyk/fastify-override)
 * [fastify](https://github.com/fastify/fastify)
 * [find-my-way](https://github.com/delvedor/find-my-way)
